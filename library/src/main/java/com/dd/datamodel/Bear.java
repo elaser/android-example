@@ -5,7 +5,7 @@ package com.dd.datamodel;
  */
 public class Bear {
 
-    String name;
-    String description;
+    public String name;
+    public String description;
 
 }
